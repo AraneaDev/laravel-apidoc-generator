@@ -18,7 +18,7 @@
         {
           "url": "https://github.com/AraneaDev/documentarian.git",
           "type": "git"
-        },
+        }
     ],
     "require": {
         "php": ">=7.0.0",
